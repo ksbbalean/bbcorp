@@ -1,0 +1,12 @@
+.DS_Store
+*.pyc
+*.egg-info
+*.swp
+tags
+chat/docs/current
+chat/www/test.html
+chat/www/test.js
+__pycache__
+dist
+.vscode
+node_modules
